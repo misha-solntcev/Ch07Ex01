@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
 
+/* Учусь ислоьзовать точки останова. */
+
 namespace Ch07Ex01
 {
     internal class Program
